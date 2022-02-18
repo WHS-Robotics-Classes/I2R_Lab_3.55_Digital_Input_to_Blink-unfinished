@@ -5,8 +5,6 @@
 
 ### Step One: Build the Circuit
 
-Build your circuit according to this schematic:
-
 ![pulldown circuit](https://github.com/WHS-Robotics-Classes/3.5-Digital_Input/blob/main/pulldown.PNG?raw=true)
 
 ### Step Two: Write the Code
@@ -26,3 +24,17 @@ Use the video below as a reference.
 [![3.5_Video](http://img.youtube.com/vi/Nc7hQMbBjHo/0.jpg)](https://www.youtube.com/watch?v=Nc7hQMbBjHo "3.5-Digital Input Video")
 
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.5_Digital_Input.ino and Commit it to the repository.
+
+
+In this assignment you will put together the following commands:
+
+Digital Outputs
+Digital Inputs
+Pulldown resistor circuit
+whlie() loops
+The following equipment will be used:
+
+LED
+430 Ohm resistor
+Button
+Several wires
